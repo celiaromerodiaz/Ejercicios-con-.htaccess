@@ -5,3 +5,24 @@
 
 
 ![](./img-1.png)
+
+
+![](./img-2.png)
+
+
+- Protege tu directorio y ficheros con autenticación básica.
+
+
+![](./img-3.png)
+
+
+- Hacer que los ficheros “.txt” no sean accesibles.
+
+
+- Crear una lista de IPs prohibidas
+
+
+![](./img-4.png)
+
+
+![](./img-5.png)
